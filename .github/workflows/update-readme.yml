@@ -2,12 +2,9 @@ name: Update README
 
 on:
   schedule:
-    # Runs every day at midnight
+    # Runs every day at midnight UTC
     - cron: '0 0 * * *'
-  push:
-    branches:
-      - main
-  workflow_dispatch: # Allows manual run
+  workflow_dispatch: # Run manually if needed
 
 jobs:
   update-readme:
