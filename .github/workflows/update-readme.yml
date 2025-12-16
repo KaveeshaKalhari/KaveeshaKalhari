@@ -18,8 +18,7 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies
-        run: npm install
+      # No dependencies needed, skip this step
 
       - name: Update README stats
         run: node update-stats.js
