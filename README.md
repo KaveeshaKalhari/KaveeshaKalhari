@@ -10,21 +10,6 @@
 
 ---
 
-<h3 align="center">💻 Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/kaveesha-kalhari" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/kaveeshahansani1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://kaveesha-kalhari.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/internet--v2.png" alt="Portfolio" height="30" width="40"/>
-  </a>
-</p>
-
----
-
 <h3 align="center">🛠 Languages, Tools & Technologies</h3>
 
 <h4 align="center">Frontend</h4>
@@ -67,6 +52,21 @@
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/></a>
   <a href="https://www.canva.com/" target="_blank"><img src="https://img.icons8.com/color/96/canva.png" width="50" height="50" alt="Canva"/></a>
   <a href="https://www.gimp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" width="50" height="50"/></a>
+</p>
+
+---
+
+<h3 align="center">💻 Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/kaveesha-kalhari" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/kaveeshahansani1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://kaveesha-kalhari.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/internet--v2.png" alt="Portfolio" height="30" width="40"/>
+  </a>
 </p>
 
 ---
