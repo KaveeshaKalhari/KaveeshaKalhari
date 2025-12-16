@@ -1,9 +1,8 @@
 const fs = require('fs');
+const path = './README.md';
 
-const readmePath = './README.md';
-let readme = fs.readFileSync(readmePath, 'utf8');
+let readme = fs.readFileSync(path, 'utf8');
 
-// New stats section
 const newStats = `
 <!-- START: GITHUB STATS -->
 ## 🚀 GitHub Statistics
@@ -17,12 +16,11 @@ const newStats = `
 <!-- END: GITHUB STATS -->
 `;
 
-// Replace old stats section
 if (readme.includes('<!-- START: GITHUB STATS -->')) {
-  readme = readme.replace(/<!-- START: GITHUB STATS -->[\s\S]*?<!-- END: GITHUB STATS -->/, newStats);
+    readme = readme.replace(/<!-- START: GITHUB STATS -->[\s\S]*?<!-- END: GITHUB STATS -->/, newStats);
 } else {
-  readme += '\n' + newStats;
+    readme += '\n' + newStats;
 }
 
-fs.writeFileSync(readmePath, readme);
+fs.writeFileSync(path, readme);
 console.log('README stats updated!');
